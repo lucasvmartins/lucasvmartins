@@ -6,8 +6,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvmartins&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
