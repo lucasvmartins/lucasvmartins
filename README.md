@@ -1,4 +1,4 @@
-# Hello World_ 🎲
+# Hello World_ 👨‍💻
 
 <div>
   <a href="https://github.com/lucasvmartins">
