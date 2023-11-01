@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/lucasvmartins">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasvmartins&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvmartins&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvmartins&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvmartins&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 
 <div>
