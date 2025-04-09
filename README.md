@@ -24,6 +24,6 @@
 ##
 
 - 🙋‍♂️ I’m Lucas Martins
-- 🎲 I’m currently learning Data Science & Machine Learning
+- 🎲 I’m currently learning Data Science
 
 ##
