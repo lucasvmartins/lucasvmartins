@@ -18,6 +18,7 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"/>
           
 </div>
 
