@@ -19,7 +19,9 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"/>
-          
+  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg"/>
+  
 </div>
 
 <div align="center">
