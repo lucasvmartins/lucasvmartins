@@ -8,6 +8,7 @@
 
 <div>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"/>
+  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>        
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
@@ -21,7 +22,6 @@
   <img align="center" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"/>
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg"/>
-  
 </div>
 
 <div align="center">
