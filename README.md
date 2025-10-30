@@ -15,6 +15,7 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg"/>
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
@@ -22,6 +23,8 @@
   <img align="center" height="40" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"/>
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg"/>
+  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg"/>
+  
 </div>
 
 <div align="center">
